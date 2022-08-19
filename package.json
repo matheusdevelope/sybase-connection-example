@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "node-sybase": "^1.1.8"
+  }
+}
